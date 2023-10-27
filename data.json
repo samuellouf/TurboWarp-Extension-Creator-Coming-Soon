@@ -1,4 +1,7 @@
 {
-  "multiple_languages_website": "developping",
-  "multiple_languages_app": "developping"
+  "multiple_languages_website": "off",
+  "multiple_languages_app": "off",
+  "project_importation": "off",
+  "project_exportation": "off",
+  "project_autosave": "off",
 }
